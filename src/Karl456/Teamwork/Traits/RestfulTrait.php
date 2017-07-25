@@ -1,4 +1,4 @@
-<?php namespace Rossedman\Teamwork\Traits;
+<?php namespace Karl456\Teamwork\Traits;
 
 trait RestfulTrait {
 

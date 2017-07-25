@@ -1,7 +1,7 @@
-<?php namespace Rossedman\Teamwork;
+<?php namespace Karl456\Teamwork;
 
-use Rossedman\Teamwork\Contracts\RequestableInterface;
-use Rossedman\Teamwork\Exceptions\ClassNotCreatedException;
+use Karl456\Teamwork\Contracts\RequestableInterface;
+use Karl456\Teamwork\Exceptions\ClassNotCreatedException;
 
 class Factory {
 

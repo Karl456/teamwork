@@ -1,7 +1,7 @@
-<?php  namespace Rossedman\Teamwork;
+<?php  namespace Karl456\Teamwork;
 
-use Rossedman\Teamwork\Traits\TimeTrait;
-use Rossedman\Teamwork\Traits\RestfulTrait;
+use Karl456\Teamwork\Traits\TimeTrait;
+use Karl456\Teamwork\Traits\RestfulTrait;
 
 class Task extends AbstractObject {
 

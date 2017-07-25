@@ -1,4 +1,4 @@
-<?php  namespace Rossedman\Teamwork;
+<?php  namespace Karl456\Teamwork;
 
 class Authenticate extends AbstractObject {
 
