@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Rossedman\\Teamwork\\": "src"
+            "Karl456\\Teamwork\\": "src"
         }
     },
     "suggest": {
